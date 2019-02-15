@@ -1,5 +1,5 @@
 ---
-permalink: /src/index.html
+permalink: src/index.html
 ---
 
 # ist-hci-1819-lab1-practice
