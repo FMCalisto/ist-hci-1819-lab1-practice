@@ -3,4 +3,8 @@ function changeImage() {
 	image.src = "media/images/error.png";
 }
 
+function changeTextColor() {
+	document.getElementById('text').style.color = "blue";
+}
+
 console.log("Hello World!");
