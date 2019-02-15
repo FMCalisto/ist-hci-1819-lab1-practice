@@ -1,5 +1,5 @@
 ---
-redirect_from: "https://fmcalisto.github.io/ist-hci-1819-lab1-practice/src/index.html"
+permalink: /src/index.html
 ---
 
 # ist-hci-1819-lab1-practice
