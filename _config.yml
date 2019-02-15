@@ -4,3 +4,4 @@ plugins:
 ---
 redirect_from: "https://fmcalisto.github.io/ist-hci-1819-lab1-practice/src/index.html"
 ---
+theme: jekyll-theme-minimal
